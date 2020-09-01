@@ -5,6 +5,7 @@ Python3 is required to run this script. You may also need to install a few modul
 Ubuntu terminal is the only terminal this code had been tested on. It may work on other terminals, but there is no guarantee.
 
 ## How to run
+
 1. `cd` into the directory
 2. run ```python3 Checkerbox.py <path to cpp file>```
 3. Pick the mission your code is on
